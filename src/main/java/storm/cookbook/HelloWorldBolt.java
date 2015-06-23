@@ -1,4 +1,4 @@
-package storm.cookbook;
+package main.java.storm.cookbook;
 
 import java.util.Map;
 
